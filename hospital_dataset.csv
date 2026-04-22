@@ -1,0 +1,11 @@
+Patient_Name,Age,Department,Disease,Treatment_Cost,Recovery_Score,Days_Admitted
+John Doe,45,Cardiology,Hypertension,1200,85,3
+Jane Smith,32,Neurology,Migraine,800,92,2
+Bob Wilson,67,Cardiology,Heart Failure,5000,70,10
+Alice Brown,54,Orthopedics,Fracture,3500,88,5
+Charlie Davis,28,Neurology,Epilepsy,2200,80,4
+Eve Miller,72,Cardiology,Arrhythmia,4200,75,7
+Frank Moore,41,Orthopedics,Arthritis,1500,90,1
+Grace Taylor,59,Neurology,Stroke,6000,65,14
+Henry White,36,Orthopedics,Back Pain,1100,95,2
+Ivy Black,48,Cardiology,Hypertension,1300,82,3
